@@ -1,0 +1,2 @@
+RustDedicated.exe -batchmode -load -server.hostname "Server Hostname" -server.port 28015 +server.identity "facepunchdev" +server.seed 6738 +rcon.port 28016 +rcon.ip 127.0.0.1 +rcon.password "rcon_password"
+pause
